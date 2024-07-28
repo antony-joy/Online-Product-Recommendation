@@ -1,0 +1,324 @@
+{
+   "category":[
+      {
+         "category":"Electronics",
+         "sub_category":"Television",
+         "added":false
+      },
+      {
+         "category":"Electronics",
+         "sub_category":"Mobile",
+         "added":false
+      },
+      {
+         "category":"Electronics",
+         "sub_category":"Air Conditioner",
+         "added":false
+      },
+      {
+         "category":"Electronics",
+         "sub_category":"Refrigerator",
+         "added":false
+      },
+      {
+         "category":"Electronics",
+         "sub_category":"Laptop",
+         "added":false
+      },
+      {
+         "category":"Electronics",
+         "sub_category":"Heater",
+         "added":false
+      },
+      {
+         "category":"Electronics",
+         "sub_category":"Camera",
+         "added":false
+      },
+      {
+         "category":"Electronics",
+         "sub_category":"Headphones",
+         "added":false
+      },
+      {
+         "category":"Electronics",
+         "sub_category":"Projectors",
+         "added":false
+      },
+      {
+         "category":"Electronics",
+         "sub_category":"Speakers",
+         "added":false
+      },
+      {
+         "category":"Electronics",
+         "sub_category":"Printers",
+         "added":false
+      },
+      {
+         "category":"Electronics",
+         "sub_category":"Desktops",
+         "added":false
+      },
+      {
+         "category":"Electronics",
+         "sub_category":"Smart Watch",
+         "added":false
+      },
+      {
+         "category":"Men's Clothing",
+         "sub_category":"Men's Shirt",
+         "added":false
+      },
+      {
+         "category":"Men's Clothing",
+         "sub_category":"Men's T-shirt",
+         "added":false
+      },
+      {
+         "category":"Men's Clothing",
+         "sub_category":"Men's Pant",
+         "added":false
+      },
+      {
+         "category":"Men's Clothing",
+         "sub_category":"Men's Trousers",
+         "added":false
+      },
+      {
+         "category":"Men's Clothing",
+         "sub_category":"Men's Shoes",
+         "added":false
+      },
+      {
+         "category":"Men's Clothing",
+         "sub_category":"Men's Wallets",
+         "added":false
+      },
+      {
+         "category":"Men's Clothing",
+         "sub_category":"Men's Belts",
+         "added":false
+      },
+      {
+         "category":"Women's Clothing",
+         "sub_category":"Women's Shirt",
+         "added":false
+      },
+      {
+         "category":"Women's Clothing",
+         "sub_category":"Women's T-shirt",
+         "added":false
+      },
+      {
+         "category":"Women's Clothing",
+         "sub_category":"Women's Pant",
+         "added":false
+      },
+      {
+         "category":"Women's Clothing",
+         "sub_category":"Women's Trousers",
+         "added":false
+      },
+      {
+         "category":"Women's Clothing",
+         "sub_category":"Women's Shoes",
+         "added":false
+      },
+      {
+         "category":"Women's Clothing",
+         "sub_category":"Women's Belts",
+         "added":false
+      },
+      {
+         "category":"Women's Clothing",
+         "sub_category":"Women's Purse",
+         "added":false
+      },
+      {
+         "category":"Kid's Clothing",
+         "sub_category":"Kid's Shirt",
+         "added":false
+      },
+      {
+         "category":"Kid's Clothing",
+         "sub_category":"Kid's T-shirt",
+         "added":false
+      },
+      {
+         "category":"Kid's Clothing",
+         "sub_category":"Kid's Pant",
+         "added":false
+      },
+      {
+         "category":"Kid's Clothing",
+         "sub_category":"Kid's Trousers",
+         "added":false
+      },
+      {
+         "category":"Kid's Clothing",
+         "sub_category":"Kid's Shoes",
+         "added":false
+      },
+      {
+         "category":"Kid's Clothing",
+         "sub_category":"Kid's Belts",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Arts & Photography",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Biographies & Memoirs",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Business & Investing",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Calendars",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Children's Books",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Christian Books & Bibles",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Comics & Graphic Novels",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Computers & Technology",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Cookbooks, Food & Wine",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Crafts, Hobbies & Home",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Education & Reference",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Erotica",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Health, Fitness & Dieting",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"History",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Humour & Entertainment",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Law",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Literature & Fiction",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Medical Books",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Mystery, Thriller & Suspense",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Parenting & Relationships",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Politics & Social Sciences",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Professional & Technical",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Religion & Spirituality",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Romance",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Science & Math",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Science Fiction & Fantasy",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Self-Help",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Sports & Outdoors",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Teen & Young Adult",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Textbooks",
+         "added":false
+      },
+      {
+         "category":"Books",
+         "sub_category":"Travel",
+         "added":false
+      }
+   ]
+}
